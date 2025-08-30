@@ -32,7 +32,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,blender,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,blender,pandas,wordpress" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" alt="Seaborn"/>
 </p>
 
