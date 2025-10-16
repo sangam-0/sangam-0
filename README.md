@@ -54,8 +54,8 @@
 
 ### ☕ Support My Work
 <p align="center">
-  <a href="https://www.buymeacoffee.com/sangamkc1">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="220" alt="Buy me a coffee" />
+  <a href=https://buymemomo.com/san-01>
+    <img src="https://cdn.buymemomo.com/buttons/v2/default-yellow.png" height="60" width="220" alt="Buy me momo" />
   </a>
 </p>
 
