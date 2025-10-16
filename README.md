@@ -54,8 +54,9 @@
 
 ### ☕ Support My Work
 <p align="center">
-  <a href="https://buymemomo.com/san-01" target="_blank">
-    <img src="https://cdn.buymemomo.com/buttons/v2/default-yellow.png" height="60" width="220" alt="Buy me momo" />
+  <a href="https://buymemomo.com/san-01" 
+     style="background-color:#FFD700; color:#000; padding:12px 24px; border-radius:10px; text-decoration:none; font-weight:bold; font-family:Arial;">
+    🥟 Buy me momo
   </a>
 </p>
 
