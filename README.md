@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Working on **Research Project @ DRG** [Team Link](https://dirghajoshi.com.np/research-team/)  
+
 - 👨‍💻 Check out my portfolio: [sangamkc.info.np](http://sangamkc.info.np/)  
 - 📝 Regularly writing articles @ [sangamkc.info.np](http://sangamkc.info.np/)  
 - 📫 Reach me at **sangamkc27@kahs.edu.np**  
