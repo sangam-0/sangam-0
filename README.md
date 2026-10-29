@@ -15,6 +15,8 @@
 
 ### 🚀 About Me
 
+- 🚀 Founder: [SAN MCQ Hall](https://www.sanmcq.com/)
+- 🧬 Developing: OKHI by HeRbX
 - 👨‍💻 Check out my portfolio: [sangamkc.info.np](http://sangamkc.info.np/)  
 - 📝 Regularly writing articles @ [sangamkc.info.np](http://sangamkc.info.np/)  
 - 📫 Reach me at **sangamkc27@kahs.edu.np**  
